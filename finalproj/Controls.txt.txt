@@ -1,0 +1,12 @@
+W - Move Forward
+A - Move Left
+S - Move Backward
+D - Move Right
+
+Up - Look Up
+Down - Look Down
+Left - Look Left
+Right - Look Right
+
+E - Shoot Laser
+Left Shift - Speed Up
